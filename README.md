@@ -1,4 +1,5 @@
 #INTRODUCTION  
+![Sample Output](assets/output_frame.jpg)    
 This project focuses on identifying and tracking players in a football match using a combination of deep learning-based object detection and player re-identification techniques. Leveraging YOLOv11 for real-time object detection, the system accurately identifies players in each frame of a match video, while a custom team-color classifier helps associate each player with their team (red, white, or yellow jerseys). This allows the system to display individual IDs, team affiliations, and track player movements consistently across frames.
 
 To maintain robust tracking, the project integrates the BoT-SORT (Better Object Tracking with Strong ReID) framework, enabling smooth re-identification even in the presence of occlusions or fast movements. Additionally, the project includes a real-time tactical map that visualizes player positions on the field using live positional data. The system outputs an annotated video along with this tactical view, making it a powerful tool for sports analytics and visual review.
@@ -24,5 +25,5 @@ Step 5: Ensure required files are present
 2.) assets/15sec_input_720p.mp4      
 3.) botsort/config/botsort.yaml    
 
-Step 6: Run the main script
+Step 6: Run the main script    
 python main.py
