@@ -5,27 +5,24 @@ To maintain robust tracking, the project integrates the BoT-SORT (Better Object 
 
 #Setup Instructions 
 Step 1: Clone the repository   
-'git clone https://github.com/AkshatShrinate/Object-Detection-and-Reidentification-using-Yolov11-Model.git'   
-'cd Object-Detection-and-Reidentification-using-Yolov11-Model'
+git clone https://github.com/AkshatShrinate/Object-Detection-and-Reidentification-using-Yolov11-Model.git   
+cd Object-Detection-and-Reidentification-using-Yolov11-Model   
 
 Step 2: Create and activate a virtual environment   
-'python -m venv venv'
-venv\Scripts\activate (for Windows)
-source venv/bin/activate (for Mac/Linux)
+python -m venv venv     
+For Windows : venv\Scripts\activate    
+For Linux/Mac: source venv/bin/activate      
 
-Step 3: Install the required dependencies
-pip install -r requirements.txt
+Step 3: Install the required dependencies       
+pip install -r requirements.txt      
 
-Step 4: Clone BoT-SORT into the project directory
-git clone https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet.git botsort
+Step 4: Clone BoT-SORT into the project directory     
+git clone https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet.git botsort      
 
 Step 5: Ensure required files are present
-
-models/best.pt
-
-assets/15sec_input_720p.mp4
-
-botsort/config/botsort.yaml
+1.)models/best.pt     
+2.)assets/15sec_input_720p.mp4      
+3.)botsort/config/botsort.yaml    
 
 Step 6: Run the main script
 python main.py
