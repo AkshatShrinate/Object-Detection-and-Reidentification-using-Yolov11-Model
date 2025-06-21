@@ -1,0 +1,7938 @@
+{
+  "frames": [
+    {
+      "frame_id": 1,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            794,
+            470,
+            864,
+            566
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            431,
+            160,
+            467,
+            227
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            839,
+            187,
+            873,
+            247
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            392,
+            422,
+            457,
+            500
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            140,
+            266,
+            190,
+            347
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1086,
+            345,
+            1137,
+            443
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            704,
+            82,
+            733,
+            128
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            887,
+            124,
+            913,
+            177
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            370,
+            154,
+            405,
+            217
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            721,
+            195,
+            757,
+            262
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1134,
+            253,
+            1181,
+            338
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 12,
+          "bbox": [
+            1239,
+            146,
+            1269,
+            210
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            532,
+            428,
+            581,
+            520
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            559,
+            94,
+            582,
+            145
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 15,
+          "bbox": [
+            638,
+            221,
+            662,
+            296
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            494,
+            430,
+            540,
+            519
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": -1,
+          "bbox": [
+            490,
+            508,
+            506,
+            521
+          ],
+          "class": "ball"
+        }
+      ]
+    },
+    {
+      "frame_id": 2,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            805,
+            467,
+            874,
+            562
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            443,
+            160,
+            480,
+            227
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            850,
+            187,
+            880,
+            248
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            404,
+            421,
+            462,
+            498
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            154,
+            265,
+            204,
+            347
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1090,
+            344,
+            1149,
+            441
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            718,
+            83,
+            746,
+            128
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            900,
+            125,
+            923,
+            177
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            382,
+            155,
+            419,
+            216
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            732,
+            194,
+            763,
+            263
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1148,
+            255,
+            1188,
+            340
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 12,
+          "bbox": [
+            1252,
+            147,
+            1280,
+            211
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            531,
+            428,
+            581,
+            518
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            570,
+            95,
+            596,
+            145
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            499,
+            431,
+            539,
+            520
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 15,
+          "bbox": [
+            651,
+            221,
+            673,
+            296
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 3,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            814,
+            465,
+            884,
+            560
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            456,
+            160,
+            494,
+            227
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            862,
+            187,
+            891,
+            248
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            416,
+            419,
+            462,
+            499
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            165,
+            264,
+            216,
+            347
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1090,
+            344,
+            1159,
+            439
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            732,
+            83,
+            757,
+            128
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            912,
+            125,
+            934,
+            177
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            396,
+            155,
+            431,
+            216
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            742,
+            194,
+            772,
+            263
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1159,
+            256,
+            1193,
+            340
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 12,
+          "bbox": [
+            1266,
+            152,
+            1280,
+            212
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            535,
+            429,
+            578,
+            517
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            581,
+            95,
+            610,
+            146
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            501,
+            432,
+            541,
+            515
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 4,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            823,
+            463,
+            891,
+            553
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            468,
+            161,
+            507,
+            226
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            873,
+            185,
+            903,
+            248
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            427,
+            417,
+            466,
+            498
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            174,
+            264,
+            227,
+            347
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1087,
+            343,
+            1146,
+            439
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            745,
+            83,
+            766,
+            127
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            924,
+            125,
+            945,
+            176
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            409,
+            154,
+            444,
+            216
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            752,
+            193,
+            783,
+            264
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1168,
+            257,
+            1196,
+            340
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            535,
+            429,
+            576,
+            515
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            592,
+            96,
+            624,
+            146
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            501,
+            434,
+            544,
+            514
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 5,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            831,
+            462,
+            896,
+            546
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            481,
+            161,
+            519,
+            226
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            883,
+            185,
+            916,
+            249
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            435,
+            416,
+            479,
+            498
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            183,
+            265,
+            236,
+            347
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1087,
+            344,
+            1140,
+            440
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            758,
+            83,
+            776,
+            128
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            936,
+            125,
+            958,
+            176
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            423,
+            154,
+            455,
+            216
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            761,
+            192,
+            795,
+            265
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1174,
+            257,
+            1206,
+            340
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            534,
+            428,
+            577,
+            517
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            604,
+            97,
+            636,
+            147
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            496,
+            434,
+            544,
+            510
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 6,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            840,
+            460,
+            899,
+            545
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            493,
+            160,
+            530,
+            226
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            890,
+            185,
+            928,
+            248
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            435,
+            414,
+            492,
+            498
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            193,
+            266,
+            241,
+            347
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1095,
+            346,
+            1139,
+            441
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            771,
+            83,
+            786,
+            127
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            948,
+            124,
+            971,
+            178
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            436,
+            154,
+            464,
+            215
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            770,
+            193,
+            806,
+            266
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1183,
+            257,
+            1219,
+            340
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            542,
+            427,
+            580,
+            516
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            618,
+            97,
+            648,
+            146
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            493,
+            436,
+            547,
+            500
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 7,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            848,
+            458,
+            907,
+            544
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            505,
+            159,
+            541,
+            225
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            899,
+            185,
+            940,
+            249
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            435,
+            413,
+            503,
+            499
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            202,
+            266,
+            245,
+            346
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1108,
+            348,
+            1138,
+            442
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            782,
+            83,
+            800,
+            127
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            960,
+            124,
+            984,
+            178
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            449,
+            154,
+            472,
+            214
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            781,
+            194,
+            818,
+            266
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1192,
+            256,
+            1233,
+            340
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            547,
+            424,
+            584,
+            515
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            631,
+            97,
+            659,
+            146
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            499,
+            440,
+            546,
+            514
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 15,
+          "bbox": [
+            704,
+            224,
+            740,
+            298
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 8,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            854,
+            455,
+            917,
+            544
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            518,
+            159,
+            550,
+            225
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            909,
+            185,
+            951,
+            249
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            440,
+            412,
+            509,
+            497
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            212,
+            266,
+            248,
+            345
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1115,
+            348,
+            1157,
+            438
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            795,
+            83,
+            813,
+            127
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            972,
+            124,
+            997,
+            179
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            461,
+            154,
+            480,
+            215
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            792,
+            195,
+            827,
+            266
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1198,
+            255,
+            1246,
+            341
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            556,
+            420,
+            589,
+            513
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            643,
+            96,
+            670,
+            146
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            503,
+            442,
+            550,
+            518
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 15,
+          "bbox": [
+            714,
+            224,
+            754,
+            298
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 9,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            860,
+            451,
+            927,
+            546
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            530,
+            158,
+            559,
+            225
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            921,
+            185,
+            960,
+            250
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            450,
+            411,
+            517,
+            496
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            220,
+            264,
+            258,
+            345
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1118,
+            347,
+            1158,
+            439
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            806,
+            83,
+            827,
+            128
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            984,
+            125,
+            1008,
+            180
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            473,
+            153,
+            492,
+            214
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            804,
+            197,
+            833,
+            267
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1203,
+            256,
+            1258,
+            343
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            562,
+            417,
+            593,
+            508
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            655,
+            95,
+            679,
+            145
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            507,
+            442,
+            551,
+            519
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 15,
+          "bbox": [
+            726,
+            224,
+            767,
+            298
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 10,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            866,
+            449,
+            935,
+            541
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            542,
+            158,
+            571,
+            226
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            934,
+            186,
+            968,
+            251
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            463,
+            412,
+            517,
+            495
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            230,
+            263,
+            269,
+            345
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1121,
+            347,
+            1168,
+            442
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            816,
+            84,
+            841,
+            129
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            998,
+            126,
+            1021,
+            181
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            484,
+            154,
+            506,
+            215
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            814,
+            197,
+            840,
+            266
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1214,
+            258,
+            1269,
+            344
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            565,
+            414,
+            600,
+            505
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            668,
+            95,
+            689,
+            146
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            509,
+            440,
+            559,
+            520
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 15,
+          "bbox": [
+            739,
+            224,
+            780,
+            298
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 11,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            873,
+            446,
+            941,
+            536
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            555,
+            158,
+            584,
+            226
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            945,
+            186,
+            974,
+            251
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            472,
+            411,
+            521,
+            493
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            238,
+            263,
+            282,
+            345
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1126,
+            345,
+            1178,
+            442
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            828,
+            85,
+            855,
+            129
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1011,
+            127,
+            1032,
+            182
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            494,
+            154,
+            520,
+            216
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            824,
+            197,
+            850,
+            267
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1228,
+            259,
+            1279,
+            345
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            571,
+            412,
+            610,
+            504
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            680,
+            94,
+            701,
+            147
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            512,
+            439,
+            567,
+            521
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 15,
+          "bbox": [
+            752,
+            225,
+            794,
+            298
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 12,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            881,
+            445,
+            944,
+            533
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            567,
+            159,
+            598,
+            226
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            956,
+            186,
+            983,
+            251
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            472,
+            410,
+            529,
+            487
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            242,
+            263,
+            293,
+            345
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1125,
+            345,
+            1186,
+            441
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            841,
+            85,
+            869,
+            129
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1023,
+            128,
+            1044,
+            182
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            503,
+            155,
+            534,
+            216
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            833,
+            197,
+            862,
+            268
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1240,
+            261,
+            1280,
+            345
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            573,
+            411,
+            619,
+            507
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            692,
+            95,
+            714,
+            147
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            517,
+            437,
+            570,
+            506
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 15,
+          "bbox": [
+            767,
+            225,
+            806,
+            298
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 13,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            889,
+            444,
+            944,
+            533
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            579,
+            159,
+            612,
+            226
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            966,
+            185,
+            995,
+            251
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            473,
+            410,
+            539,
+            485
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            249,
+            264,
+            302,
+            345
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1121,
+            347,
+            1179,
+            440
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            854,
+            86,
+            882,
+            130
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1036,
+            127,
+            1058,
+            182
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            513,
+            156,
+            548,
+            217
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            842,
+            197,
+            874,
+            269
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1248,
+            261,
+            1280,
+            346
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            573,
+            410,
+            627,
+            513
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            704,
+            96,
+            728,
+            149
+          ],
+          "class": "player",
+          "team": "red"
+        }
+      ]
+    },
+    {
+      "frame_id": 14,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            896,
+            445,
+            947,
+            534
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            588,
+            160,
+            625,
+            227
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            976,
+            185,
+            1007,
+            252
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            484,
+            410,
+            547,
+            479
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            260,
+            265,
+            307,
+            345
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1120,
+            348,
+            1188,
+            441
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            867,
+            86,
+            893,
+            130
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1048,
+            127,
+            1072,
+            182
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            525,
+            157,
+            560,
+            217
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            848,
+            196,
+            886,
+            269
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1259,
+            260,
+            1280,
+            337
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            574,
+            410,
+            631,
+            517
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            715,
+            96,
+            741,
+            148
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            509,
+            434,
+            573,
+            508
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 15,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            899,
+            443,
+            957,
+            535
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            600,
+            161,
+            638,
+            227
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            984,
+            185,
+            1019,
+            252
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            494,
+            412,
+            557,
+            482
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            269,
+            266,
+            310,
+            345
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1124,
+            352,
+            1190,
+            442
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            880,
+            87,
+            903,
+            130
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1059,
+            127,
+            1086,
+            183
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            537,
+            157,
+            572,
+            218
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            855,
+            197,
+            898,
+            269
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 11,
+          "bbox": [
+            1268,
+            256,
+            1280,
+            337
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            583,
+            409,
+            634,
+            512
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            726,
+            98,
+            754,
+            150
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 15,
+          "bbox": [
+            807,
+            226,
+            837,
+            298
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 16,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            903,
+            441,
+            966,
+            533
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            612,
+            162,
+            650,
+            228
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            990,
+            187,
+            1031,
+            252
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            504,
+            414,
+            557,
+            488
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            277,
+            265,
+            310,
+            346
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1135,
+            353,
+            1185,
+            444
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            892,
+            87,
+            913,
+            130
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1070,
+            128,
+            1100,
+            183
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            551,
+            158,
+            582,
+            219
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            865,
+            198,
+            908,
+            270
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            590,
+            409,
+            634,
+            506
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            736,
+            99,
+            766,
+            151
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            514,
+            439,
+            579,
+            513
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 17,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            906,
+            439,
+            956,
+            515
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            624,
+            162,
+            661,
+            229
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            999,
+            189,
+            1042,
+            252
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            510,
+            435,
+            559,
+            492
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            285,
+            264,
+            316,
+            347
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1145,
+            354,
+            1193,
+            446
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            904,
+            87,
+            922,
+            131
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1078,
+            129,
+            1113,
+            184
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            565,
+            158,
+            590,
+            219
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            876,
+            200,
+            916,
+            271
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            595,
+            408,
+            631,
+            506
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            748,
+            100,
+            777,
+            151
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            519,
+            423,
+            575,
+            510
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 18,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            910,
+            438,
+            966,
+            522
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            636,
+            163,
+            670,
+            229
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1011,
+            191,
+            1051,
+            253
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            512,
+            446,
+            570,
+            506
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            292,
+            264,
+            326,
+            348
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1150,
+            354,
+            1192,
+            446
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            915,
+            88,
+            933,
+            132
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1087,
+            131,
+            1125,
+            185
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            577,
+            159,
+            597,
+            219
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            886,
+            201,
+            922,
+            272
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            599,
+            408,
+            633,
+            503
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            759,
+            100,
+            786,
+            152
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            537,
+            418,
+            581,
+            496
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 19,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            914,
+            438,
+            974,
+            525
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            648,
+            163,
+            678,
+            230
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1021,
+            192,
+            1058,
+            254
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            519,
+            449,
+            578,
+            511
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            295,
+            264,
+            335,
+            349
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1153,
+            353,
+            1195,
+            448
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            926,
+            87,
+            945,
+            133
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1096,
+            134,
+            1138,
+            187
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            588,
+            159,
+            605,
+            220
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            894,
+            202,
+            926,
+            271
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            602,
+            407,
+            636,
+            503
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            770,
+            101,
+            795,
+            153
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            540,
+            417,
+            585,
+            491
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 17,
+          "bbox": [
+            915,
+            439,
+            953,
+            528
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 20,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            917,
+            438,
+            975,
+            525
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            659,
+            163,
+            686,
+            231
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1028,
+            192,
+            1063,
+            254
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            516,
+            452,
+            557,
+            517
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            297,
+            266,
+            344,
+            349
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1156,
+            353,
+            1202,
+            449
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            935,
+            88,
+            957,
+            135
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1108,
+            136,
+            1149,
+            189
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            598,
+            159,
+            615,
+            222
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            902,
+            202,
+            929,
+            272
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            606,
+            408,
+            639,
+            502
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            782,
+            101,
+            804,
+            154
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            545,
+            416,
+            593,
+            492
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 15,
+          "bbox": [
+            856,
+            227,
+            887,
+            303
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 21,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            918,
+            438,
+            969,
+            526
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            670,
+            163,
+            692,
+            232
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1038,
+            192,
+            1068,
+            256
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            508,
+            456,
+            552,
+            524
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            303,
+            267,
+            350,
+            350
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1153,
+            353,
+            1210,
+            449
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            944,
+            90,
+            968,
+            136
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1120,
+            139,
+            1160,
+            190
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            606,
+            160,
+            626,
+            222
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            910,
+            202,
+            937,
+            274
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            610,
+            408,
+            641,
+            503
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            794,
+            102,
+            813,
+            155
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            549,
+            416,
+            601,
+            491
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 22,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            919,
+            438,
+            973,
+            528
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            680,
+            163,
+            702,
+            232
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1050,
+            192,
+            1075,
+            256
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            505,
+            457,
+            559,
+            523
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            312,
+            269,
+            353,
+            351
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1149,
+            354,
+            1215,
+            448
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            954,
+            91,
+            977,
+            136
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1132,
+            140,
+            1169,
+            192
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            612,
+            161,
+            638,
+            223
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            917,
+            202,
+            945,
+            275
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            614,
+            406,
+            649,
+            506
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            804,
+            102,
+            823,
+            156
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            554,
+            415,
+            604,
+            491
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 23,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            918,
+            435,
+            977,
+            528
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            688,
+            163,
+            711,
+            233
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1057,
+            192,
+            1083,
+            258
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            506,
+            458,
+            564,
+            524
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            321,
+            269,
+            353,
+            351
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1147,
+            355,
+            1216,
+            448
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            964,
+            92,
+            984,
+            137
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1144,
+            140,
+            1178,
+            193
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            618,
+            162,
+            648,
+            224
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            923,
+            203,
+            953,
+            276
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            617,
+            405,
+            659,
+            509
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            813,
+            102,
+            832,
+            156
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            561,
+            414,
+            605,
+            490
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 15,
+          "bbox": [
+            882,
+            232,
+            919,
+            306
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 24,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            914,
+            433,
+            977,
+            525
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            694,
+            163,
+            719,
+            233
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1061,
+            193,
+            1090,
+            258
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            510,
+            460,
+            557,
+            523
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            324,
+            269,
+            353,
+            351
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1147,
+            357,
+            1215,
+            448
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            971,
+            92,
+            989,
+            138
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1154,
+            140,
+            1184,
+            194
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            623,
+            162,
+            656,
+            224
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            927,
+            204,
+            958,
+            277
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            619,
+            405,
+            663,
+            509
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            818,
+            101,
+            839,
+            157
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            564,
+            412,
+            608,
+            488
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 15,
+          "bbox": [
+            891,
+            232,
+            926,
+            306
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 25,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            907,
+            431,
+            973,
+            522
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            696,
+            164,
+            725,
+            234
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1061,
+            194,
+            1094,
+            259
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            509,
+            461,
+            561,
+            523
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            323,
+            269,
+            353,
+            351
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1149,
+            359,
+            1211,
+            450
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            975,
+            93,
+            992,
+            139
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1160,
+            139,
+            1188,
+            195
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            627,
+            163,
+            661,
+            225
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            929,
+            206,
+            959,
+            277
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            617,
+            403,
+            665,
+            508
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            820,
+            102,
+            844,
+            157
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            563,
+            412,
+            610,
+            488
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 15,
+          "bbox": [
+            895,
+            233,
+            929,
+            307
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 26,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            903,
+            430,
+            962,
+            521
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            695,
+            163,
+            728,
+            234
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1061,
+            196,
+            1095,
+            257
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            506,
+            462,
+            553,
+            523
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            319,
+            268,
+            352,
+            352
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1154,
+            360,
+            1198,
+            439
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            977,
+            92,
+            993,
+            139
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1162,
+            139,
+            1192,
+            195
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            630,
+            163,
+            663,
+            225
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            929,
+            208,
+            957,
+            277
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            613,
+            403,
+            667,
+            507
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            821,
+            103,
+            848,
+            158
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            556,
+            412,
+            607,
+            487
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 27,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            897,
+            431,
+            944,
+            520
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            696,
+            164,
+            729,
+            235
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1061,
+            197,
+            1093,
+            256
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            504,
+            460,
+            551,
+            523
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            311,
+            268,
+            350,
+            352
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1150,
+            360,
+            1189,
+            446
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            978,
+            92,
+            994,
+            138
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1164,
+            138,
+            1195,
+            195
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            632,
+            163,
+            663,
+            224
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            928,
+            209,
+            952,
+            275
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            606,
+            404,
+            666,
+            506
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            821,
+            103,
+            850,
+            158
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            551,
+            412,
+            604,
+            488
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 28,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            885,
+            431,
+            929,
+            520
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            695,
+            164,
+            730,
+            235
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1059,
+            199,
+            1089,
+            258
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            496,
+            459,
+            544,
+            523
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            304,
+            268,
+            347,
+            352
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1142,
+            359,
+            1181,
+            449
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            975,
+            92,
+            993,
+            140
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1166,
+            137,
+            1196,
+            196
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            633,
+            163,
+            660,
+            224
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            926,
+            210,
+            946,
+            275
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            602,
+            406,
+            657,
+            501
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            821,
+            105,
+            850,
+            158
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            548,
+            414,
+            603,
+            488
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 29,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            868,
+            430,
+            926,
+            519
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            696,
+            164,
+            729,
+            235
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1058,
+            200,
+            1084,
+            259
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            484,
+            455,
+            541,
+            523
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            300,
+            269,
+            343,
+            353
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1127,
+            359,
+            1174,
+            449
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            973,
+            93,
+            991,
+            140
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1169,
+            137,
+            1200,
+            196
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            634,
+            162,
+            656,
+            223
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            922,
+            209,
+            943,
+            275
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            594,
+            409,
+            646,
+            501
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            821,
+            105,
+            850,
+            158
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            545,
+            415,
+            602,
+            487
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 30,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            853,
+            428,
+            913,
+            512
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            695,
+            165,
+            726,
+            234
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1055,
+            199,
+            1079,
+            260
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            478,
+            451,
+            536,
+            525
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            299,
+            270,
+            336,
+            353
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1111,
+            358,
+            1166,
+            449
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            971,
+            94,
+            989,
+            140
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1170,
+            138,
+            1202,
+            197
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            633,
+            162,
+            652,
+            223
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            918,
+            209,
+            941,
+            274
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            588,
+            411,
+            638,
+            504
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            820,
+            106,
+            848,
+            158
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            544,
+            416,
+            599,
+            486
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": -1,
+          "bbox": [
+            647,
+            485,
+            662,
+            502
+          ],
+          "class": "ball"
+        }
+      ]
+    },
+    {
+      "frame_id": 31,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            835,
+            426,
+            891,
+            496
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            696,
+            164,
+            723,
+            233
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1053,
+            198,
+            1075,
+            260
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            475,
+            448,
+            531,
+            526
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            298,
+            270,
+            329,
+            354
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1099,
+            360,
+            1159,
+            448
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            970,
+            95,
+            988,
+            141
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1170,
+            138,
+            1202,
+            197
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            632,
+            162,
+            648,
+            224
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            913,
+            209,
+            939,
+            274
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            583,
+            413,
+            637,
+            503
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            820,
+            106,
+            846,
+            158
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            544,
+            414,
+            596,
+            487
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": -1,
+          "bbox": [
+            644,
+            484,
+            659,
+            500
+          ],
+          "class": "ball"
+        }
+      ]
+    },
+    {
+      "frame_id": 32,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            818,
+            426,
+            872,
+            506
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            695,
+            163,
+            718,
+            233
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1049,
+            198,
+            1072,
+            261
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            475,
+            444,
+            526,
+            526
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            295,
+            271,
+            323,
+            353
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1088,
+            362,
+            1150,
+            448
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            968,
+            95,
+            986,
+            141
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1169,
+            140,
+            1201,
+            198
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            629,
+            162,
+            646,
+            224
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            907,
+            208,
+            931,
+            255
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            819,
+            105,
+            844,
+            158
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            545,
+            412,
+            592,
+            488
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": -1,
+          "bbox": [
+            641,
+            483,
+            656,
+            498
+          ],
+          "class": "ball"
+        }
+      ]
+    },
+    {
+      "frame_id": 33,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            821,
+            425,
+            855,
+            494
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            694,
+            163,
+            713,
+            233
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1043,
+            197,
+            1070,
+            262
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            475,
+            442,
+            520,
+            526
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            290,
+            270,
+            317,
+            354
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1083,
+            364,
+            1141,
+            448
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            966,
+            95,
+            984,
+            140
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1169,
+            140,
+            1201,
+            198
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            622,
+            162,
+            644,
+            224
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            901,
+            209,
+            923,
+            254
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            819,
+            105,
+            840,
+            157
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            546,
+            409,
+            599,
+            492
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": -1,
+          "bbox": [
+            639,
+            482,
+            653,
+            497
+          ],
+          "class": "ball"
+        }
+      ]
+    },
+    {
+      "frame_id": 34,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            810,
+            424,
+            836,
+            511
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            691,
+            163,
+            709,
+            232
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1038,
+            197,
+            1066,
+            263
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            470,
+            439,
+            515,
+            526
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            283,
+            270,
+            313,
+            356
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1082,
+            364,
+            1133,
+            448
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            963,
+            96,
+            982,
+            141
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1168,
+            141,
+            1201,
+            198
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            618,
+            162,
+            642,
+            225
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            894,
+            210,
+            918,
+            271
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            818,
+            104,
+            838,
+            157
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            545,
+            405,
+            600,
+            498
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": -1,
+          "bbox": [
+            636,
+            481,
+            650,
+            497
+          ],
+          "class": "ball"
+        },
+        {
+          "track_id": 18,
+          "bbox": [
+            575,
+            458,
+            601,
+            506
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 13,
+          "bbox": [
+            570,
+            424,
+            605,
+            506
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 35,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            801,
+            421,
+            834,
+            516
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            686,
+            163,
+            707,
+            232
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1036,
+            199,
+            1063,
+            264
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            464,
+            435,
+            510,
+            526
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            278,
+            271,
+            309,
+            357
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1082,
+            363,
+            1126,
+            448
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            961,
+            95,
+            980,
+            142
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1167,
+            141,
+            1200,
+            198
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            615,
+            163,
+            641,
+            225
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            888,
+            211,
+            912,
+            279
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            815,
+            103,
+            836,
+            158
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            539,
+            407,
+            595,
+            503
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 36,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            790,
+            418,
+            828,
+            514
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            682,
+            163,
+            706,
+            233
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1033,
+            199,
+            1060,
+            265
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            459,
+            433,
+            508,
+            525
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            268,
+            272,
+            305,
+            357
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1081,
+            361,
+            1122,
+            449
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            960,
+            95,
+            979,
+            142
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1168,
+            141,
+            1200,
+            198
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            612,
+            163,
+            641,
+            225
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            883,
+            211,
+            908,
+            280
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            811,
+            103,
+            834,
+            158
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            531,
+            407,
+            590,
+            504
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 19,
+          "bbox": [
+            579,
+            403,
+            610,
+            490
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 37,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            778,
+            415,
+            819,
+            511
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            678,
+            163,
+            706,
+            233
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1030,
+            201,
+            1058,
+            264
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            457,
+            430,
+            506,
+            526
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            258,
+            274,
+            301,
+            357
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1080,
+            359,
+            1117,
+            433
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            959,
+            94,
+            978,
+            142
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1169,
+            141,
+            1201,
+            198
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            609,
+            164,
+            641,
+            225
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            879,
+            210,
+            905,
+            280
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            808,
+            103,
+            833,
+            159
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            522,
+            408,
+            586,
+            505
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 19,
+          "bbox": [
+            578,
+            404,
+            611,
+            486
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": -1,
+          "bbox": [
+            629,
+            478,
+            642,
+            491
+          ],
+          "class": "ball"
+        }
+      ]
+    },
+    {
+      "frame_id": 38,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            765,
+            415,
+            808,
+            509
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            674,
+            164,
+            706,
+            233
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1027,
+            201,
+            1055,
+            264
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            454,
+            428,
+            504,
+            528
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            250,
+            275,
+            297,
+            357
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1080,
+            358,
+            1113,
+            426
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            958,
+            94,
+            977,
+            142
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1171,
+            140,
+            1202,
+            198
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            608,
+            164,
+            639,
+            226
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            875,
+            210,
+            901,
+            280
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            806,
+            104,
+            832,
+            159
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            520,
+            408,
+            583,
+            505
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 19,
+          "bbox": [
+            581,
+            407,
+            613,
+            486
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 20,
+          "bbox": [
+            1068,
+            388,
+            1099,
+            448
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 21,
+          "bbox": [
+            1267,
+            298,
+            1279,
+            370
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": -1,
+          "bbox": [
+            627,
+            477,
+            640,
+            491
+          ],
+          "class": "ball"
+        }
+      ]
+    },
+    {
+      "frame_id": 39,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            756,
+            415,
+            796,
+            488
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            672,
+            165,
+            706,
+            234
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1025,
+            201,
+            1053,
+            265
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            451,
+            428,
+            501,
+            531
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            245,
+            276,
+            294,
+            358
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1062,
+            357,
+            1109,
+            441
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            958,
+            94,
+            976,
+            143
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1173,
+            140,
+            1202,
+            199
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            607,
+            164,
+            637,
+            226
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            872,
+            210,
+            897,
+            280
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            805,
+            104,
+            831,
+            159
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            519,
+            408,
+            581,
+            506
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 19,
+          "bbox": [
+            584,
+            409,
+            617,
+            487
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 21,
+          "bbox": [
+            1266,
+            288,
+            1279,
+            369
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": -1,
+          "bbox": [
+            624,
+            477,
+            637,
+            490
+          ],
+          "class": "ball"
+        }
+      ]
+    },
+    {
+      "frame_id": 40,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            738,
+            416,
+            781,
+            491
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            670,
+            165,
+            705,
+            234
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1025,
+            201,
+            1051,
+            266
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            450,
+            428,
+            499,
+            534
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            242,
+            277,
+            292,
+            358
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1060,
+            357,
+            1104,
+            435
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            957,
+            95,
+            975,
+            143
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1174,
+            140,
+            1203,
+            199
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            605,
+            165,
+            635,
+            227
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            866,
+            211,
+            895,
+            281
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            803,
+            105,
+            830,
+            159
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            518,
+            406,
+            575,
+            506
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 19,
+          "bbox": [
+            585,
+            410,
+            621,
+            488
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 21,
+          "bbox": [
+            1262,
+            283,
+            1279,
+            368
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": -1,
+          "bbox": [
+            622,
+            477,
+            635,
+            489
+          ],
+          "class": "ball"
+        },
+        {
+          "track_id": 22,
+          "bbox": [
+            734,
+            445,
+            778,
+            509
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 20,
+          "bbox": [
+            1053,
+            381,
+            1096,
+            449
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 41,
+      "objects": [
+        {
+          "track_id": 1,
+          "bbox": [
+            736,
+            418,
+            769,
+            483
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 2,
+          "bbox": [
+            669,
+            166,
+            704,
+            235
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1022,
+            201,
+            1049,
+            267
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            448,
+            429,
+            496,
+            535
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            242,
+            277,
+            289,
+            359
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1061,
+            358,
+            1099,
+            433
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            955,
+            95,
+            974,
+            144
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1176,
+            140,
+            1203,
+            199
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            605,
+            165,
+            631,
+            227
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            861,
+            211,
+            891,
+            283
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            802,
+            105,
+            829,
+            160
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            518,
+            403,
+            566,
+            505
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 19,
+          "bbox": [
+            585,
+            411,
+            626,
+            489
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 21,
+          "bbox": [
+            1256,
+            281,
+            1279,
+            368
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": -1,
+          "bbox": [
+            622,
+            477,
+            633,
+            489
+          ],
+          "class": "ball"
+        },
+        {
+          "track_id": 22,
+          "bbox": [
+            722,
+            456,
+            765,
+            507
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 20,
+          "bbox": [
+            1046,
+            391,
+            1081,
+            449
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 42,
+      "objects": [
+        {
+          "track_id": 2,
+          "bbox": [
+            667,
+            166,
+            703,
+            235
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1019,
+            201,
+            1047,
+            267
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            443,
+            430,
+            494,
+            535
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            241,
+            276,
+            286,
+            359
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1057,
+            361,
+            1095,
+            432
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            953,
+            95,
+            973,
+            144
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1177,
+            140,
+            1203,
+            199
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            604,
+            165,
+            628,
+            227
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            855,
+            212,
+            887,
+            285
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            802,
+            106,
+            828,
+            160
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            516,
+            401,
+            559,
+            504
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 19,
+          "bbox": [
+            585,
+            411,
+            634,
+            489
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 21,
+          "bbox": [
+            1251,
+            280,
+            1279,
+            367
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 22,
+          "bbox": [
+            707,
+            427,
+            759,
+            509
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 20,
+          "bbox": [
+            1040,
+            396,
+            1074,
+            450
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 43,
+      "objects": [
+        {
+          "track_id": 2,
+          "bbox": [
+            666,
+            166,
+            700,
+            235
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1016,
+            203,
+            1044,
+            268
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            438,
+            431,
+            493,
+            536
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            241,
+            275,
+            284,
+            359
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1039,
+            364,
+            1090,
+            446
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            951,
+            96,
+            971,
+            145
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1176,
+            141,
+            1203,
+            200
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            605,
+            165,
+            625,
+            228
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            853,
+            215,
+            882,
+            285
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            801,
+            106,
+            827,
+            161
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            512,
+            399,
+            552,
+            503
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 19,
+          "bbox": [
+            586,
+            409,
+            635,
+            488
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 21,
+          "bbox": [
+            1242,
+            280,
+            1279,
+            368
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 22,
+          "bbox": [
+            700,
+            422,
+            751,
+            511
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 44,
+      "objects": [
+        {
+          "track_id": 2,
+          "bbox": [
+            666,
+            166,
+            696,
+            236
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1013,
+            204,
+            1041,
+            270
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            433,
+            431,
+            491,
+            537
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            240,
+            275,
+            280,
+            359
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1042,
+            366,
+            1085,
+            438
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            949,
+            97,
+            970,
+            146
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1176,
+            144,
+            1204,
+            201
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            604,
+            166,
+            622,
+            229
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            850,
+            217,
+            875,
+            286
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            801,
+            107,
+            825,
+            161
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            505,
+            397,
+            544,
+            503
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 19,
+          "bbox": [
+            590,
+            408,
+            637,
+            487
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 21,
+          "bbox": [
+            1233,
+            282,
+            1276,
+            369
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 22,
+          "bbox": [
+            695,
+            433,
+            747,
+            512
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 20,
+          "bbox": [
+            1029,
+            390,
+            1075,
+            455
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 45,
+      "objects": [
+        {
+          "track_id": 2,
+          "bbox": [
+            666,
+            167,
+            691,
+            236
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1011,
+            205,
+            1037,
+            270
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            429,
+            430,
+            489,
+            537
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            240,
+            274,
+            275,
+            359
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1034,
+            368,
+            1080,
+            446
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            948,
+            99,
+            968,
+            147
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1175,
+            146,
+            1204,
+            202
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            600,
+            166,
+            620,
+            229
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            845,
+            218,
+            870,
+            287
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            800,
+            107,
+            823,
+            161
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            499,
+            396,
+            536,
+            502
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 19,
+          "bbox": [
+            595,
+            405,
+            641,
+            486
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 21,
+          "bbox": [
+            1226,
+            282,
+            1273,
+            370
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 22,
+          "bbox": [
+            682,
+            425,
+            745,
+            511
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 20,
+          "bbox": [
+            1025,
+            385,
+            1074,
+            457
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 46,
+      "objects": [
+        {
+          "track_id": 2,
+          "bbox": [
+            664,
+            166,
+            686,
+            236
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1007,
+            206,
+            1033,
+            271
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            427,
+            430,
+            485,
+            537
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            238,
+            273,
+            269,
+            359
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1025,
+            369,
+            1073,
+            452
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            947,
+            99,
+            966,
+            146
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1173,
+            147,
+            1205,
+            203
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            595,
+            166,
+            618,
+            229
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            839,
+            219,
+            863,
+            287
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            799,
+            107,
+            821,
+            161
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            491,
+            396,
+            529,
+            501
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 19,
+          "bbox": [
+            603,
+            403,
+            654,
+            485
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 21,
+          "bbox": [
+            1221,
+            284,
+            1267,
+            372
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 22,
+          "bbox": [
+            672,
+            421,
+            738,
+            510
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 20,
+          "bbox": [
+            1023,
+            382,
+            1066,
+            457
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 23,
+          "bbox": [
+            1042,
+            368,
+            1077,
+            446
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 47,
+      "objects": [
+        {
+          "track_id": 2,
+          "bbox": [
+            661,
+            167,
+            681,
+            237
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            1004,
+            206,
+            1028,
+            271
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            425,
+            454,
+            473,
+            538
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            236,
+            273,
+            263,
+            358
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1021,
+            369,
+            1070,
+            452
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            945,
+            99,
+            963,
+            146
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1171,
+            148,
+            1205,
+            203
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            589,
+            167,
+            615,
+            230
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            833,
+            218,
+            857,
+            287
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            798,
+            108,
+            819,
+            155
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            483,
+            396,
+            521,
+            499
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 19,
+          "bbox": [
+            606,
+            402,
+            658,
+            485
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 21,
+          "bbox": [
+            1218,
+            285,
+            1260,
+            372
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 22,
+          "bbox": [
+            665,
+            417,
+            728,
+            506
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 48,
+      "objects": [
+        {
+          "track_id": 2,
+          "bbox": [
+            657,
+            167,
+            677,
+            236
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            999,
+            206,
+            1023,
+            271
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            421,
+            461,
+            469,
+            541
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            233,
+            272,
+            257,
+            358
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1016,
+            369,
+            1066,
+            455
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            943,
+            98,
+            961,
+            146
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1169,
+            149,
+            1204,
+            204
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            584,
+            167,
+            613,
+            230
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            824,
+            218,
+            852,
+            288
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            797,
+            107,
+            815,
+            159
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            474,
+            398,
+            513,
+            500
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 19,
+          "bbox": [
+            609,
+            400,
+            656,
+            485
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 21,
+          "bbox": [
+            1214,
+            287,
+            1253,
+            373
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 22,
+          "bbox": [
+            662,
+            413,
+            718,
+            500
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 24,
+          "bbox": [
+            449,
+            433,
+            475,
+            498
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    },
+    {
+      "frame_id": 49,
+      "objects": [
+        {
+          "track_id": 2,
+          "bbox": [
+            653,
+            166,
+            672,
+            237
+          ],
+          "class": "player",
+          "team": "white"
+        },
+        {
+          "track_id": 3,
+          "bbox": [
+            993,
+            206,
+            1018,
+            272
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 4,
+          "bbox": [
+            417,
+            466,
+            463,
+            542
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 5,
+          "bbox": [
+            228,
+            273,
+            252,
+            358
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 6,
+          "bbox": [
+            1012,
+            370,
+            1063,
+            458
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 7,
+          "bbox": [
+            940,
+            98,
+            958,
+            147
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 8,
+          "bbox": [
+            1166,
+            149,
+            1204,
+            204
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 9,
+          "bbox": [
+            579,
+            167,
+            610,
+            230
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 10,
+          "bbox": [
+            816,
+            218,
+            847,
+            289
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 14,
+          "bbox": [
+            794,
+            107,
+            812,
+            161
+          ],
+          "class": "player",
+          "team": "red"
+        },
+        {
+          "track_id": 16,
+          "bbox": [
+            468,
+            400,
+            505,
+            503
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 19,
+          "bbox": [
+            612,
+            397,
+            657,
+            482
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 21,
+          "bbox": [
+            1204,
+            288,
+            1247,
+            372
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 22,
+          "bbox": [
+            671,
+            410,
+            708,
+            478
+          ],
+          "class": "player",
+          "team": "unknown"
+        },
+        {
+          "track_id": 24,
+          "bbox": [
+            444,
+            434,
+            470,
+            503
+          ],
+          "class": "player",
+          "team": "unknown"
+        }
+      ]
+    }
+  ]
+}
