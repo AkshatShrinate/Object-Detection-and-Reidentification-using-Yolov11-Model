@@ -1,0 +1,5 @@
+you will find a YOlov11 model that is trained to identify 4 classes 
+a)player
+b)ball
+c)referee
+d)goal-lkeeper
