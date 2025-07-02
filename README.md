@@ -23,7 +23,7 @@ git clone https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet.git botsort
 Step 5: Ensure required files are present    
 1.) models/best.pt     
 2.) assets/15sec_input_720p.mp4      
-3.) botsort/config/botsort.yaml    
+3.) botsort/boxmot/config/botsort.yaml    
 
 Step 6: Run the main script    
 python main.py
