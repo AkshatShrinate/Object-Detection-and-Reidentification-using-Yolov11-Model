@@ -1,5 +1,7 @@
-you will find a YOlov11 model that is trained to identify 4 classes 
+The project utilises a YOlov11 model titled best.pt that is trained to identify 4 classes during a soccer/football match. The 4 classes are as folows:
 a)player
 b)ball
 c)referee
-d)goal-lkeeper
+d)goal-keeper
+
+Model Link: https://drive.google.com/file/d/1PH_YbiO6zsrL1nM7ksDZhHrBbxkjUQbi/view?usp=sharing
