@@ -16,7 +16,7 @@ For Linux/Mac: source venv/bin/activate
 
 Step 3: Install the required dependencies       
 pip install -r requirements.txt         
-git clone https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet.git botsort      
+git clone https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet.git  
 
 Step 5: Ensure required files are present    
 1.) models/best.pt     
