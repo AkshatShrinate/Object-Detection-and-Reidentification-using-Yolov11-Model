@@ -15,9 +15,7 @@ For Windows : venv\Scripts\activate
 For Linux/Mac: source venv/bin/activate      
 
 Step 3: Install the required dependencies       
-pip install -r requirements.txt      
-
-Step 4: Clone BoT-SORT into the project directory     
+pip install -r requirements.txt         
 git clone https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet.git botsort      
 
 Step 5: Ensure required files are present    
